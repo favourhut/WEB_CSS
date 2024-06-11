@@ -1,0 +1,22 @@
+.takeaway-box {
+    border: 2px solid red; /* Change to green if needed */
+    padding: 20px;
+    position: relative;
+    margin: 20px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.takeaway-header {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    background: white;
+    padding: 0 10px;
+    font-weight: bold;
+    color: red; /* Change to green if needed */
+}
+
+.takeaway-content {
+    margin-top: 20px;
+}
